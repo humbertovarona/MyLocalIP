@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+   My Local IP: Android application for local IPv4 and IPv6 detection
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+repository-code: 'https://zenodo.org/record/6791545'
+abstract: >-
+   Android application for local IPv4 and IPv6 detection
+keywords:
+  - IPv4
+  - IPv6
+  - Local IP
+  - Computer networks
+license: MIT
+version: '1.0'
+date-released: '2022-06-30'
